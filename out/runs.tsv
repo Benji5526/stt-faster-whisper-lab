@@ -1,0 +1,8 @@
+실행시각	음성파일	모델	언어	고유명사	16k모노	잡음억제	무음절삭	크기평탄화	beam	VAD	조각수	정답파일	CER	결과파일
+2026-09-19 03:24:15	testvoice.ogg	small	ko		0	0	0	0	5	1	5	testvoice_answer.txt	0.1133	testvoice_small_raw_20260919-032408.txt
+2026-09-19 03:24:23	testvoice.ogg	small	ko		1	0	0	0	5	1	5	testvoice_answer.txt	0.1133	testvoice_small_R_20260919-032417.txt
+2026-09-19 03:24:30	testvoice.ogg	small	ko		1	1	0	0	5	1	2	testvoice_answer.txt	0.1267	testvoice_small_RD_20260919-032424.txt
+2026-09-19 03:24:38	testvoice.ogg	small	ko		1	0	1	0	5	1	8	testvoice_answer.txt	0.1800	testvoice_small_RT_20260919-032432.txt
+2026-09-19 03:24:46	testvoice.ogg	small	ko		1	0	0	1	5	1	5	testvoice_answer.txt	0.1800	testvoice_small_RN_20260919-032439.txt
+2026-09-19 03:24:57	testvoice.ogg	small	auto		1	0	0	0	5	1	5	testvoice_answer.txt	0.1133	testvoice_small_R_20260919-032447.txt
+2026-09-19 03:25:11	testvoice.ogg	small	ko	벤지;호주;광산;오일 앤 가스;메카닉 피터	1	0	0	0	5	1	3	testvoice_answer.txt	0.0933	testvoice_small_R_20260919-032458.txt

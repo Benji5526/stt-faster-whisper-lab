@@ -1,0 +1,68 @@
+
+### 1. 원본 그대로 (손질 없음)
+[00:00:00.340 --> 00:00:04.340] Hi, this is Benji.
+[00:00:04.340 --> 00:00:13.340] So I was working in Australia and I'm back in Korea so I know what I'm going to do in South Korea beyond.
+[00:00:13.340 --> 00:00:15.340] And I'm...
+[00:00:15.340 --> 00:00:28.340] 호주에서 광산 님을 했었고요. 광산이랑 오랜 게스에서 메카니크 퀘터로 일을 했었고 지금은 현구에서 공부를 하고 있습니다.
+[00:00:28.340 --> 00:00:31.340] AI 관련 공부를 하고 있고요.
+바꿈 5 / 빠짐 1 / 끼어듦 11  = 모두 17
+글자 오류율(CER) : 11.33%
+결과를 저장했습니다: C:\Users\mbj05\projects\stt\out\testvoice_small_raw_20260919-032408.txt
+
+### 2. 16k 단일채널만 (기준)
+[00:00:00.340 --> 00:00:04.340] Hi, this is Benji.
+[00:00:04.340 --> 00:00:13.340] So I was working in Australia and I'm back in Korea so I know what I'm going to do in South Korea beyond.
+[00:00:13.340 --> 00:00:15.340] And I'm...
+[00:00:15.340 --> 00:00:28.340] 호주에서 광산 님을 했었고요. 광산이랑 오랜 게스에서 메카니크 퀘터로 일을 했었고 지금은 현구에서 공부를 하고 있습니다.
+[00:00:28.340 --> 00:00:31.340] AI 관련 공부를 하고 있고요.
+바꿈 5 / 빠짐 1 / 끼어듦 11  = 모두 17
+글자 오류율(CER) : 11.33%
+결과를 저장했습니다: C:\Users\mbj05\projects\stt\out\testvoice_small_R_20260919-032417.txt
+
+### 3. 기준 + 잡음억제
+[00:00:00.340 --> 00:00:13.340] Hi, this is Benji, so I was working in Australia and I'm back in Korea so I know what I'm going to do in South Korea beyond this.
+[00:00:13.340 --> 00:00:30.340] 그리고 호주에서 광산 님을 했었고요. 광산이랑 오랜 게스에서 메카니크 퀘터로 일을 했었고 지금은 현구에서 공부를 하고 있습니다. AI 관련 공부를 하고 있고요.
+바꿈 5 / 빠짐 1 / 끼어듦 13  = 모두 19
+글자 오류율(CER) : 12.67%
+결과를 저장했습니다: C:\Users\mbj05\projects\stt\out\testvoice_small_RD_20260919-032424.txt
+
+### 4. 기준 + 무음절삭
+[00:00:00.380 --> 00:00:04.380] Hi, this is Benji.
+[00:00:04.380 --> 00:00:10.380] So, I was working in Australia and I'm back in Korea soon.
+[00:00:10.380 --> 00:00:13.380] I know what I'm going to do in South Korea and beyond.
+[00:00:13.380 --> 00:00:16.380] And I'm...
+[00:00:16.380 --> 00:00:19.380] 호주에서 광산 일을 했었고요.
+[00:00:19.380 --> 00:00:24.380] 광산이랑 오랜 게스에서 메카니크 필터로 일을 했었고
+[00:00:24.380 --> 00:00:28.380] 지금은 현구에서 공부를 하고 있습니다.
+[00:00:28.380 --> 00:00:30.894] 거기서 공부를 하고 있고요.
+바꿈 9 / 빠짐 2 / 끼어듦 16  = 모두 27
+글자 오류율(CER) : 18.00%
+결과를 저장했습니다: C:\Users\mbj05\projects\stt\out\testvoice_small_RT_20260919-032432.txt
+
+### 5. 기준 + 크기평탄화
+[00:00:00.340 --> 00:00:04.340] Hi, this is Benji.
+[00:00:04.340 --> 00:00:13.340] So, I was working in Australia and I'm back in Korea, so I know what I'm gonna do in South Korea beyond this.
+[00:00:13.340 --> 00:00:15.340] And I'm...
+[00:00:15.340 --> 00:00:28.340] 호주에서 광산이를 했었고요. 광산이랑 오랜 게스에서 메카니크 퓨터로 일을 했었고, 지금은 현구에서 공부를 하고 있습니다.
+[00:00:28.340 --> 00:00:30.340] AI 관련 공부를 하고 있고요.
+바꿈 9 / 빠짐 3 / 끼어듦 15  = 모두 27
+글자 오류율(CER) : 18.00%
+결과를 저장했습니다: C:\Users\mbj05\projects\stt\out\testvoice_small_RN_20260919-032439.txt
+
+### 6. 기준 + 언어 auto
+[00:00:00.340 --> 00:00:04.340] Hi, this is Benji.
+[00:00:04.340 --> 00:00:13.340] So I was working in Australia and I'm back in Korea so I know what I'm going to do in South Korea beyond.
+[00:00:13.340 --> 00:00:15.340] And I'm...
+[00:00:15.340 --> 00:00:28.340] 호주에서 광산 님을 했었고요. 광산이랑 오랜 게스에서 메카니크 퀘터로 일을 했었고 지금은 현구에서 공부를 하고 있습니다.
+[00:00:28.340 --> 00:00:31.340] AI 관련 공부를 하고 있고요.
+바꿈 5 / 빠짐 1 / 끼어듦 11  = 모두 17
+글자 오류율(CER) : 11.33%
+결과를 저장했습니다: C:\Users\mbj05\projects\stt\out\testvoice_small_R_20260919-032447.txt
+
+### 7. 기준 + 고유명사
+[00:00:00.340 --> 00:00:13.940] Hi, this is 벤지, I was working in Australia, and I'm back in Korea, so I know what I'm gonna do in South Korea, beyond.
+[00:00:13.940 --> 00:00:14.940] And I'm...
+[00:00:16.440 --> 00:00:30.740] 호주에서 광산이를 했었고요. 광산이랑 오일 앤 가스에서 메카닉 피터로 일어났었고, 지금은 현구에서 공부를 하고 있습니다. AI 관련 공부를 하고 있고요.
+바꿈 7 / 빠짐 2 / 끼어듦 5  = 모두 14
+글자 오류율(CER) : 9.33%
+결과를 저장했습니다: C:\Users\mbj05\projects\stt\out\testvoice_small_R_20260919-032458.txt
